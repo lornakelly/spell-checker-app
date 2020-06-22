@@ -2,7 +2,7 @@
 
 ## Description
 
-This program is a simple spell checker. It prompts user to enter a dictionary and a word and checks the spelling against the dictionary. It returns one of the following 3 messages.
+This program is a simple spell checker. It prompts the user to enter a dictionary and a word and checks the spelling of the word against the dictionary. It returns one of the following 3 messages.
 
 1. If the word is found, the console will print 'Correct'
 2. If the word is not found but a similiar word with 2 or less different letters is found, the console will print the similar word
