@@ -1,0 +1,17 @@
+{
+  "name": "ibm",
+  "version": "1.0.0",
+  "description": "Technical assessment",
+  "author": "Lorna Kelly",
+  "license": "ISC",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
